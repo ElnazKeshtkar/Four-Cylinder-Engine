@@ -14,12 +14,6 @@ This repository contains the complete SolidWorks 3D model of a four-cylinder int
 - **Detailed Assembly:** All parts are fully constrained in a final assembly, demonstrating a complete and functional mechanical system.
 - **Parametric Design:** Key dimensions were designed parametrically to allow for potential future modifications.
 
-## Renders & Visuals
-
-Here is another view showing the internal components:
-
-![Exploded View](Renders/exploded_view_render.png)
-
 ## Tools Used
 
 - **CAD Software:** SolidWorks 2022
